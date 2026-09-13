@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Bushra Farhad!
 
-<!--
-**VforViolet10/VforViolet10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | AI/ML Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I'm passionate about **Data Science, Artificial Intelligence, Machine Learning, and Data Analytics**, with a strong interest in solving real-world problems using data and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**Languages:** Python • SQL • C/C++ • Java
+**Data Science:** Pandas • NumPy • Scikit-learn • Statistics • EDA
+**AI/ML:** TensorFlow • Keras • XGBoost • Deep Learning • NLP • Computer Vision
+**Analytics:** Power BI • Excel • Data Visualization
+**Tools:** Git • GitHub • Jupyter • Google Colab • VS Code • FastAPI
+
+### 🧠 Interests
+
+📊 Data Science & Analytics
+🤖 AI & Machine Learning
+🗣️ NLP & Multilingual AI
+🧮 Linear Algebra & Mathematical ML
+📈 Data Visualization
+💡 Entrepreneurship & Technology
+
+### 🌱 Currently Learning
+
+**Advanced Machine Learning • Deep Learning • NLP • Generative AI • Data Engineering**
+
+### 📫 Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/bushra-farhad-518a52245/)
+📧 [bushra.f.work@gmail.com](mailto:bushra.f.work@gmail.com)
+
+> **Curious about data. Fascinated by technology. Driven by problem solving.**
