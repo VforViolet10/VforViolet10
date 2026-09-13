@@ -19,10 +19,15 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 ### 🧠 Interests
 
 📊 Data Science & Analytics
+
 🤖 AI & Machine Learning
+
 🗣️ NLP & Multilingual AI
+
 🧮 Linear Algebra & Mathematical ML
+
 📈 Data Visualization
+
 💡 Entrepreneurship & Technology
 
 ### 📫 Connect
