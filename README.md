@@ -28,6 +28,7 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 ### 📫 Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/bushra-farhad-518a52245/)
+
 📧 [bushra.f.work@gmail.com](mailto:bushra.f.work@gmail.com)
 
-> **Curious about data. Fascinated by technology. Driven by problem solving.**
+**Curious about data. Fascinated by technology. Driven by problem solving.**
