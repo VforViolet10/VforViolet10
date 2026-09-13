@@ -2,14 +2,18 @@
 
 ### Aspiring Data Scientist | AI/ML Enthusiast | Problem Solver
 
-I'm passionate about **Data Science, Artificial Intelligence, Machine Learning, and Data Analytics**, with a strong interest in solving real-world problems using data and technology.
+I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machine Learning**, with a strong interest in solving real-world problems using data and technology.
 
 ### 🛠️ Skills
 
-**Languages:** Python • SQL • C/C++ • Java
+**Languages:** Python • SQL • C++ • Java • R
+
 **Data Science:** Pandas • NumPy • Scikit-learn • Statistics • EDA
+
 **AI/ML:** TensorFlow • Keras • XGBoost • Deep Learning • NLP • Computer Vision
+
 **Analytics:** Power BI • Excel • Data Visualization
+
 **Tools:** Git • GitHub • Jupyter • Google Colab • VS Code • FastAPI
 
 ### 🧠 Interests
@@ -20,10 +24,6 @@ I'm passionate about **Data Science, Artificial Intelligence, Machine Learning, 
 🧮 Linear Algebra & Mathematical ML
 📈 Data Visualization
 💡 Entrepreneurship & Technology
-
-### 🌱 Currently Learning
-
-**Advanced Machine Learning • Deep Learning • NLP • Generative AI • Data Engineering**
 
 ### 📫 Connect
 
