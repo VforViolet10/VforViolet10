@@ -4,6 +4,7 @@
 
 I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machine Learning**, with a strong interest in solving real-world problems using data and technology.
 
+
 ## 👩‍💻 Contributions
 
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
@@ -14,7 +15,7 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
   </picture>
 </a>
 
----
+
 
 ### 🛠️ Skills
 
@@ -28,7 +29,7 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 
 **Tools:** Git • GitHub • Jupyter • Google Colab • VS Code • FastAPI
 
----
+
 
 ### 🧠 Interests
 
@@ -44,7 +45,7 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 
 💡 Entrepreneurship & Technology
 
----
+
 
 ### 📫 Connect
 
