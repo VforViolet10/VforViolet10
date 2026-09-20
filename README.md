@@ -4,6 +4,18 @@
 
 I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machine Learning**, with a strong interest in solving real-world problems using data and technology.
 
+---
+
+### 🐍 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bushra-farhad/bushra-farhad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bushra-farhad/bushra-farhad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bushra-farhad/bushra-farhad/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 🛠️ Skills
 
 **Languages:** Python • SQL • C++ • Java • R
@@ -15,6 +27,8 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 **Analytics:** Power BI • Excel • Data Visualization
 
 **Tools:** Git • GitHub • Jupyter • Google Colab • VS Code • FastAPI
+
+---
 
 ### 🧠 Interests
 
@@ -30,6 +44,8 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 
 💡 Entrepreneurship & Technology
 
+---
+
 ### 📫 Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/bushra-farhad-518a52245/)
@@ -37,3 +53,4 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 📧 [bushra.f.work@gmail.com](mailto:bushra.f.work@gmail.com)
 
 **Curious about data. Fascinated by technology. Driven by problem solving.**
+
