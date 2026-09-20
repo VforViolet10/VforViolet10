@@ -4,6 +4,13 @@
 
 I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machine Learning**, with a strong interest in solving real-world problems using data and technology.
 
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=VforViolet10&color=7c3aed&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=VforViolet10&color=7c3aed&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=VforViolet10&color=7c3aed&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" width="846" height="164" style="height:auto" />
+  </picture>
+</a>
 ---
 
 ### 🛠️ Skills
