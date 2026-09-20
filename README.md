@@ -6,16 +6,6 @@ I'm passionate about **Data Science/Analytics, Artificial Intelligence and Machi
 
 ---
 
-### 🐍 GitHub Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bushra-farhad/bushra-farhad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bushra-farhad/bushra-farhad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bushra-farhad/bushra-farhad/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 🛠️ Skills
 
 **Languages:** Python • SQL • C++ • Java • R
