@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bushra Farhad!
+# 👋 Hello! I'm Bushra Farhad!
 
 ### Aspiring Data Scientist | AI/ML Enthusiast | Problem Solver
 
